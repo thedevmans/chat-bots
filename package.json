@@ -1,0 +1,26 @@
+{
+  "name": "ChatBot",
+  "version": "8.0.0",
+  "description": "A chat bot that can chat in between guilds.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.4.0",
+    "envinfo": "^7.7.3",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "ms": "^2.1.2",
+    "tcc-cdn": "^1.2.0",
+    "enhanced.db": "^0.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "GNU GENERAL PUBLIC LICENSE"
+}
